@@ -1,0 +1,10 @@
+catalogue_id,product name,sku,description,price,product_stock_qty,discount_price,unit
+1,product test,sku-q1,testing,599,722,899,kg
+1,product test,sku-q2,testing,599,722,899,kg
+1,product test,sku-q3,testing,599,722,899,kg
+1,product test,sku-q4,testing,599,722,899,kg
+1,product test,sku-q5,testing,599,722,899,kg
+1,product test,sku-q6,testing,599,722,899,kg
+1,product test,sku-q7,testing,599,722,899,kg
+1,product test,sku-q8,testing,599,722,899,kg
+1,product test,sku-q9,testing,599,722,899,kg
